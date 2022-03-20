@@ -1,0 +1,17 @@
+{
+  "name": "tutoriel-nodejs",
+  "version": "1.0.0",
+  "main": "10-fs-sync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "^3.6.0",
+    "lodash": "^4.17.21"
+  }
+}
